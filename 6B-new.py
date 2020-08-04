@@ -1,11 +1,3 @@
-﻿
-__author__ = "Hasan Yavas"
-__date__ = "2020/08"
-
-## only save figures
-#import matplotlib as mpl
-#mpl.use('Agg')
-
 import sys
 import pickle
 
